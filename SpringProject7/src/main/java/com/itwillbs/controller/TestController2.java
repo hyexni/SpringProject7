@@ -21,4 +21,9 @@ public class TestController2 {
 		// 기능 완료 
 		
 	}
+	@RequestMapping(value ="/test5")
+	public void test5() {
+		// 집에서 기능 생성 완료 
+		
+	}
 }
