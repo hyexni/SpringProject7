@@ -8,6 +8,7 @@ public class TestController2 {
 	
 	@RequestMapping(value ="/test2")
 	public void test2() {
+		// 기능 완료 
 		
 	}
 }
